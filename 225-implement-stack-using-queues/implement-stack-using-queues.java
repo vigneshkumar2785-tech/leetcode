@@ -7,14 +7,13 @@ class MyStack {
     public void push(int x) {
         q.add(x);
         int size = q.size();
-        // Rotate the queue: move all elements before x to the back
         for (int i = 0; i < size - 1; i++) {
             q.add(q.poll());
         }
     }
 
     public int pop() {
-        return q.poll(); // Now the last pushed element is at the front
+        return q.poll(); 
     }
 
     public int top() {
