@@ -1,27 +1,64 @@
-import java.util.LinkedList;
-import java.util.Queue;
+// class MyStack {
+//     private Queue<Integer> q = new LinkedList<>();
+//     public void push(int x) {
+//         q.add(x);
+//         int size = q.size();
+//         for (int i = 0; i < size - 1; i++) {
+//             q.add(q.poll());
+//         }
+//     }
+
+//     public int pop() {
+//         return q.poll(); 
+//     }
+
+//     public int top() {
+//         return q.peek();
+//     }
+
+//     public boolean empty() {
+//         return q.isEmpty();
+//     }
+// }
 
 class MyStack {
-    private Queue<Integer> q = new LinkedList<>();
-
+    private Queue<Integer> q1;
+    private Queue<Integer> q2;
+    public MyStack()
+    {
+        q1 = new LinkedList<>();
+        q2 = new LinkedList<>();
+    }
     public void push(int x) {
-        q.add(x);
-        int size = q.size();
-        for (int i = 0; i < size - 1; i++) {
-            q.add(q.poll());
+        q1.offer(x);
+        while(!q2.isEmpty())
+        {
+        q1.offer(q2.poll());
         }
+        Queue<Integer> temp = q2; // Reference variable
+        temp = q2;
+        q2 = q1;
+        q1 = temp; 
     }
 
     public int pop() {
-        return q.poll(); 
+    if(q2.isEmpty())
+    {
+    return -1;
+    }
+            return q2.poll(); 
     }
 
     public int top() {
-        return q.peek();
+    if(q2.isEmpty())
+    {
+    return -1;
+    }
+        return q2.peek();
     }
 
     public boolean empty() {
-        return q.isEmpty();
+        return q2.isEmpty();
     }
 }
 
