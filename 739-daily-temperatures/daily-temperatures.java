@@ -8,14 +8,10 @@ class Solution {
             while(!st.isEmpty() && temperatures[st.peek()] < temperatures[i])
             {
                int index=  st.pop();
-               arr[index]= i -index;
-                
+               arr[index]= i -index;               
             }
             st.push(i);
-
         }
-        return arr;
-
-        
+        return arr;       
     }
 }
