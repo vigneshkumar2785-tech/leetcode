@@ -7,14 +7,13 @@ class Solution {
         }
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
-
         while (!queue.isEmpty()) {
             int levelSize = queue.size();
-            List<Integer> currentLevel = new ArrayList<>();
+            List<Integer> currentLevel = new ArrayList<>(); // Current level data are stored 
 
             for (int i = 0; i < levelSize; i++) {
                 TreeNode currentNode = queue.poll();
-                currentLevel.add(currentNode.val);
+                currentLevel.add(currentNode.val); //Add the Level in the Tree 
 
                 if (currentNode.left != null)
                 { 
