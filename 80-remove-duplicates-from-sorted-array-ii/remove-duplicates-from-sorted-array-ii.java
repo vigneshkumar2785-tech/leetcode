@@ -7,7 +7,6 @@ class Solution {
             {
                 nums[i++] =n;
             }
-
     }
     return i;
     }
