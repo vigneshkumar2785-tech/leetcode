@@ -1,30 +1,24 @@
-import java.util.HashSet;
-
 class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
         int n = grid.length;
         int size = n * n;
-        HashSet<Integer> seen = new HashSet<>();
-        int repeated = -1;
-        long actualSum = 0;
+        int[] count = new int[size + 1];
+        int[] ans = new int[2];
 
-        for (int i = 0; i < n; i++) 
-        {
-            for (int j = 0; j < n; j++)
-             {
-                int val = grid[i][j];
-                if (seen.contains(val)) 
-                {
-                    repeated = val;
-                }
-                seen.add(val);
-                actualSum += val;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                count[grid[i][j]]++;
             }
         }
 
-        long expectedSum = (long) size * (size + 1) / 2;
-        int missing = (int) (expectedSum - (actualSum - repeated));
+        for (int i = 1; i <= size; i++) {
+            if (count[i] == 2) {
+                ans[0] = i;
+            } else if (count[i] == 0) {
+                ans[1] = i;
+            }
+        }
 
-        return new int[]{repeated, missing};
+        return ans;
     }
 }
