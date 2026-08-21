@@ -15,6 +15,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0941-valid-mountain-array](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0941-valid-mountain-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
