@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0018-4sum) |
 | [0118-pascals-triangle](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -72,4 +73,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
