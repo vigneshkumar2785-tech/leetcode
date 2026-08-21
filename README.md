@@ -36,6 +36,7 @@
 | [0268-missing-number](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2544-alternating-digit-sum](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/2544-alternating-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
