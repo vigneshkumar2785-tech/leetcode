@@ -23,6 +23,7 @@
 | [0014-longest-common-prefix](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0541-reverse-string-ii) |
 ## Trie
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0344-reverse-string](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0541-reverse-string-ii) |
 ## Sliding Window
 |  |
 | ------- |
