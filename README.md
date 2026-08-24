@@ -16,6 +16,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0941-valid-mountain-array](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0941-valid-mountain-array) |
+| [1872-stone-game-viii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1872-stone-game-viii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
@@ -39,6 +40,7 @@
 | [0258-add-digits](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1872-stone-game-viii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1872-stone-game-viii) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2544-alternating-digit-sum](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/2544-alternating-digit-sum) |
 ## Binary Search
@@ -79,12 +81,14 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1872-stone-game-viii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1872-stone-game-viii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [1872-stone-game-viii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1872-stone-game-viii) |
 ## Simulation
 |  |
 | ------- |
@@ -97,4 +101,16 @@
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
