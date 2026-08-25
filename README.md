@@ -15,6 +15,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0704-binary-search) |
 | [0941-valid-mountain-array](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0941-valid-mountain-array) |
 | [1872-stone-game-viii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1872-stone-game-viii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -49,6 +50,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
