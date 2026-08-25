@@ -18,6 +18,7 @@
 | [0704-binary-search](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0704-binary-search) |
 | [0941-valid-mountain-array](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0941-valid-mountain-array) |
 | [1872-stone-game-viii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1872-stone-game-viii) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
@@ -51,6 +52,7 @@
 | [0268-missing-number](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1872-stone-game-viii) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
