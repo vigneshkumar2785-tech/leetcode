@@ -127,4 +127,8 @@
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
