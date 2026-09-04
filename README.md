@@ -131,6 +131,7 @@
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0180-consecutive-numbers) |
+| [0196-delete-duplicate-emails](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
