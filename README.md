@@ -20,6 +20,7 @@
 | [0704-binary-search](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0704-binary-search) |
 | [0941-valid-mountain-array](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0941-valid-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1470-shuffle-the-array) |
 | [1872-stone-game-viii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1872-stone-game-viii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -41,6 +42,7 @@
 | [0268-missing-number](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Two Pointers
 |  |
@@ -181,4 +184,8 @@
 | [1934-confirmation-rate](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
