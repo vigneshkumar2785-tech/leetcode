@@ -16,6 +16,7 @@
 | [0485-max-consecutive-ones](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0704-binary-search) |
 | [0941-valid-mountain-array](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0941-valid-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +72,7 @@
 | [0268-missing-number](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0645-set-mismatch) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Two Pointers
 |  |
