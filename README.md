@@ -18,6 +18,7 @@
 | [0704-binary-search](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0704-binary-search) |
 | [0941-valid-mountain-array](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0941-valid-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1470-shuffle-the-array](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1470-shuffle-the-array) |
 | [1872-stone-game-viii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/1872-stone-game-viii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3364-minimum-positive-sum-subarray](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
