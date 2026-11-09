@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0018-4sum) |
+| [0066-plus-one](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -48,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vigneshkumar2785-tech/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
